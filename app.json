@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "ANNSUN-Y",
       "required": true
     },
     "CAPTION" : {
@@ -25,7 +25,7 @@
     
     "IMAGE" : {
       "description": "THUMB IMAGE FOR BOT ",
-      "value": "https://telegra.ph/file/1f4e6e1cc2ed1662adb36.jpg",
+      "value": "https://telegra.ph/file/5e733fb060c057fa28fa9.jpg",
       "required" : true
     },
 
